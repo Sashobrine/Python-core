@@ -1,0 +1,1 @@
+print("\"Anyone who \nstops \nlearning is old, \nwhether at twenty or eighty\" \nHenry Ford")
